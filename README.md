@@ -8,7 +8,7 @@
 As a passionate full-stack developer deeply immersed in the realms of artificial intelligence and DevOps, I'm on an exhilarating journey to craft my interpretation of the digital landscape, one innovative step at a time. With each project I undertake, I embark on a comprehensive journey, from meticulous planning and creative design to the artful implementation of solutions that address real-world challenges head-on. My commitment lies not just in coding for the sake of it, but in leveraging technology as a powerful tool to revolutionize industries, enhance user experiences, and shape the future of our interconnected world.
 
 ---
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
