@@ -28,33 +28,3 @@ As a passionate full-stack developer deeply immersed in the realms of artificial
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-# ***My Languages***  
-
-<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=for-the-badge&logo=terraform" />  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" />  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-
-# ***Editors I use***
-
-<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
-<img alt="Sublime" src="https://img.shields.io/badge/-Sublime-black?style=for-the-badge&logo=sublime"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
-
-# 📊 **This is how I spend my time:**
-<!--START_SECTION:waka-->
-@@ -63,7 +63,7 @@
-
-# ***Currently learning***
-
-<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-darkblue?style=for-the-badge&logo=pandas"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow"> <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-blue?style=for-the-badge&logo=numpy"> <img alt="PuTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch">
-<img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch">
-
-
-# ***My Humble Stats:***
-@@ -79,7 +79,7 @@
-##
-
--  Check out my Portifolio: yousinator.github.io
--  Any freelance work? You can reach me via [email](https://yousinator.github.io/#contact):)
--  Any freelance work? You can reach me via [website contact section](https://yousinator.github.io/#contact):)
--  Ask me about anything, I am happy to help.
--  Check out my socials above!
